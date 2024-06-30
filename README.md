@@ -1,10 +1,8 @@
 # MyToken Contract
 
-Simple overview of use/purpose.
-
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+The MyToken Contract is a Solidity smart contract designed to create a basic ERC-20-like token on the Ethereum blockchain. 
 
 ### Executing program
 
